@@ -1,16 +1,14 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=AJIT%20KUMAR&fontSize=48&fontColor=00F0FF&animation=fadeIn&color=0:0D1117,50:171738,100:30105E&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DEEP%20LEARNING&descAlignY=60&descSize=14" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=AJIT%20KUMAR&fontSize=48&fontColor=00F0FF&animation=fadeIn&color=0:0D1117,50:171738,100:30105E&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DEEP%20LEARNING&descAlignY=60&descSize=14" width="100%" alt="Ajit Kumar profile banner"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Building+Intelligent+Applications;Learning+Deep+Learning+with+PyTorch;Turning+Ideas+Into+Code" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Building+Intelligent+Applications;Learning+Deep+Learning+with+PyTorch;Turning+Ideas+Into+Code" alt="Animated introduction"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/Ajitkumar696">
-<img src="https://komarev.com/ghpvc/?username=Ajitkumar696&style=for-the-badge&color=6C3BFF&label=PROFILE+VISITORS" alt="Profile visitors"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Ajitkumar696&label=PROFILE+VISITORS&color=6C3BFF&style=for-the-badge" alt="Profile visitors"/>
 
 <a href="https://github.com/Ajitkumar696?tab=followers">
 <img src="https://img.shields.io/github/followers/Ajitkumar696?style=for-the-badge&color=00F0FF&labelColor=0D1117&label=FOLLOWERS" alt="GitHub followers"/>
@@ -20,96 +18,104 @@
 
 ---
 
-## `whoami` — About Me
+## ⚡ `whoami` — About Me
 
-```python
-class AjitKumar:
-    def __init__(self):
-        self.role = "Aspiring AI/ML Engineer"
-        self.country = "India"
-        self.languages = ["Python", "C++", "C"]
-        self.learning = ["Deep Learning", "PyTorch", "NLP"]
-        self.interests = [
-            "Artificial Intelligence",
-            "Generative AI",
-            "Agentic AI",
-            "Problem Solving"
-        ]
+<table>
+<tr>
+<td width="50%" valign="top">
 
-    def goal(self):
-        return "Build AI that solves real-world problems"
+### 🧠 My Mission
 
-me = AjitKumar()
-print(me.goal())
-```
+Building intelligent systems that solve real-world problems.
 
-- 🧠 Exploring neural networks and machine learning.
-- 🔬 Building hands-on projects to strengthen my AI foundations.
-- ⚡ Practicing Data Structures and Algorithms with C++.
-- 🚀 Interested in Generative AI, NLP, and intelligent agents.
-- 🤝 Open to collaborating on interesting software and AI projects.
+### 💻 Core Languages
+
+Python · C++ · C
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Currently Learning
+
+Deep Learning · PyTorch · NLP
+
+### 🔮 Future Interests
+
+Generative AI · Agentic AI
+
+</td>
+</tr>
+</table>
+
+- 🔬 Learning by building practical projects.
+- ⚡ Practicing Data Structures and Algorithms using C++.
+- 🤖 Exploring neural networks and intelligent applications.
+- 🤝 Open to collaborating on interesting AI and software projects.
+- 📫 Email: [ajitkumarpanigrahi122@gmail.com](mailto:ajitkumarpanigrahi122@gmail.com)
 
 ---
 
-## `tech_stack` — Technologies I Use
+## 🛠️ `tech_stack` — Technologies I Use
 
 <div align="center">
 
-### Programming
+**Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c" alt="Python C++ C"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c" alt="Python, C++, C"/>
 
-### AI / ML / Data Science
+**AI, Machine Learning & Data Science**
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas" alt="PyTorch Scikit-learn NumPy Pandas"/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas" alt="PyTorch, Scikit-learn, NumPy, Pandas"/>
 
-### Development Tools
+**Development Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,fastapi,supabase" alt="Git GitHub VS Code FastAPI Supabase"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,fastapi,supabase" alt="Git, GitHub, VS Code, FastAPI, Supabase"/>
 
 </div>
 
 ---
 
-## `featured_projects` — Things I'm Building
+## 🚀 `featured_projects` — Things I'm Building
 
 <div align="center">
 
 <a href="https://github.com/Ajitkumar696/sentiment-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajitkumar696&repo=sentiment-analysis&theme=tokyonight&hide_border=true" alt="Sentiment Analysis project"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajitkumar696&repo=sentiment-analysis&theme=tokyonight&hide_border=true" alt="Sentiment Analysis repository card"/>
 </a>
 
 </div>
 
 ### 🧠 Graduate Admission Prediction
 
-A regression project exploring artificial neural networks to predict graduate admission chances.
+An artificial neural network project exploring graduate admission prediction.
 
-**Focus:** Data preprocessing · Neural networks · Regression · Model evaluation
+`Neural Networks` · `Regression` · `Model Evaluation`
 
 ### 💬 IMDB Sentiment Analysis
 
 An NLP project focused on classifying movie reviews as positive or negative.
 
-**Focus:** Text preprocessing · Feature extraction · Sentiment classification
+`Text Preprocessing` · `NLP` · `Sentiment Classification`
+
+[View the Sentiment Analysis repository →](https://github.com/Ajitkumar696/sentiment-analysis)
 
 ### 🎓 StuCore
 
-A student-focused marketplace concept connecting students through buying, selling, rentals, and services.
+A student-focused marketplace concept for buying, selling, rentals, and services.
 
-**Focus:** Full-stack development · Backend APIs · Database integration
+`Full-Stack Development` · `Backend APIs` · `Database Integration`
 
-> Explore more projects on [my GitHub repositories](https://github.com/Ajitkumar696?tab=repositories).
+Explore more projects on [GitHub →](https://github.com/Ajitkumar696?tab=repositories)
 
 ---
 
-## `github_stats` — My Developer Activity
+## 📊 `github_stats` — My Developer Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ajitkumar696&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ajitkumar696&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitkumar696&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitkumar696&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
 <br/><br/>
 
@@ -119,7 +125,7 @@ A student-focused marketplace concept connecting students through buying, sellin
 
 ---
 
-## `contribution_matrix` — Consistency Over Perfection
+## 🐍 `contribution_matrix`
 
 <div align="center">
 
@@ -129,7 +135,7 @@ A student-focused marketplace concept connecting students through buying, sellin
 
 ---
 
-## `connect()` — Let's Connect
+## 🌐 `connect()` — Let's Connect
 
 <div align="center">
 
@@ -137,18 +143,18 @@ A student-focused marketplace concept connecting students through buying, sellin
 <img src="https://img.shields.io/badge/Email-Contact%20Me-00F0FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
 </a>
 
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6C3BFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+<a href="https://codeforces.com/profile/subajit">
+<img src="https://img.shields.io/badge/Codeforces-Profile-6C3BFF?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="Codeforces"/>
 </a>
 
-<a href="https://github.com/Ajitkumar696">
-<img src="https://img.shields.io/badge/GitHub-Follow-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+<a href="https://leetcode.com/ajitsmp">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" alt="LeetCode"/>
 </a>
 
 <br/><br/>
 
-### ⚡ *Learn. Build. Experiment. Repeat.*
+### ⚡ Learn. Build. Experiment. Repeat.
 
-<sub>Designed with curiosity, powered by code, and driven by a passion for AI.</sub>
+<sub>Powered by curiosity. Driven by code. Inspired by AI.</sub>
 
 </div>
